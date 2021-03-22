@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\DuongQuocThinhhh_5951071102\DuongQuocThinhhh_5951071102\obj\Debug\DuongQuocThinhhh_5951071102.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DuongQuocThinhhh_5951071102\DuongQuocThinhhh_5951071102\obj\Debug\DuongQuocThinhhh_5951071102.Form1.resources
+C:\Users\DELL\source\repos\DuongQuocThinhhh_5951071102\DuongQuocThinhhh_5951071102\obj\Debug\DuongQuocThinhhh_5951071102.Properties.Resources.resources
+C:\Users\DELL\source\repos\DuongQuocThinhhh_5951071102\DuongQuocThinhhh_5951071102\obj\Debug\DuongQuocThinhhh_5951071102.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\DuongQuocThinhhh_5951071102\DuongQuocThinhhh_5951071102\obj\Debug\DuongQuocThinhhh_5951071102.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DuongQuocThinhhh_5951071102\DuongQuocThinhhh_5951071102\bin\Debug\DuongQuocThinhhh_5951071102.exe.config
+C:\Users\DELL\source\repos\DuongQuocThinhhh_5951071102\DuongQuocThinhhh_5951071102\bin\Debug\DuongQuocThinhhh_5951071102.exe
+C:\Users\DELL\source\repos\DuongQuocThinhhh_5951071102\DuongQuocThinhhh_5951071102\bin\Debug\DuongQuocThinhhh_5951071102.pdb
+C:\Users\DELL\source\repos\DuongQuocThinhhh_5951071102\DuongQuocThinhhh_5951071102\obj\Debug\DuongQuocThinhhh_5951071102.exe
+C:\Users\DELL\source\repos\DuongQuocThinhhh_5951071102\DuongQuocThinhhh_5951071102\obj\Debug\DuongQuocThinhhh_5951071102.pdb
